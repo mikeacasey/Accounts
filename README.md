@@ -1,5 +1,7 @@
 # Accounts
-a simple droidscript based (https://droidscript.org) monthly personnel expenses application
+a simple droidscript (https://droidscript.org) based monthly personnel expenses application
+
+## Description
 Allows the user to:
 - record and edit spends (amount, date and time, reason)
 - record and edit gets (amount, date and time)
